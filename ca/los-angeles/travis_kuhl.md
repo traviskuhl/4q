@@ -1,3 +1,4 @@
+# Travis Kuhl
 Web Developer - Santa Monica, CA
 
 ## 1. What are you working on right now (your full time job... side projects... anything and everything)?
@@ -8,10 +9,11 @@ single page promotional site for the [The Legally Prohibited from Being Funny on
 and seeing it's tremendous growth in less than a year has been extremely satisfying and an incredible honor to be part of.
 
 At night I work on a ton of side projects, most of which never get released but are a ton of fun. Here's a few of the highlights:
- * [drib](https://github.com/traviskuhl/drib) - open source packaging and deployment manager
- * [bolt](https://github.com/traviskuhl/bolt) - light weight PHP framework
- * [Backyard.io](http://backyard.io) - something new
- * [fourqu.es/tions](http://fourqu.es/tions) - very meta
+
+ * drib [drib](https://github.com/traviskuhl/drib) - open source packaging and deployment manager
+ * Bolt [bolt](https://github.com/traviskuhl/bolt) - light weight PHP framework
+ * BackyardIo [Backyard.io](http://backyard.io) - something new
+ * FourQuestions [fourqu.es/tions](http://fourqu.es/tions) - very meta
 
 
 ## 2. What companies/projects have your worked on in the past?
