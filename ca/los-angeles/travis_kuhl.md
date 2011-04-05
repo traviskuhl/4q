@@ -1,5 +1,5 @@
 # Travis Kuhl
-Web Developer - Santa Monica, CA
+Web Developer, teamcoco.com - Santa Monica, CA
 
 ## 1. What are you working on right now (your full time job... side projects... anything and everything)?
 During the day I'm a freelance developer, working mostly as the lead developer for [TeamCoco.com](http://teamcoco.com), the official website of ["Conan"](http://www.imdb.com/title/tt1637574/). Nothing
