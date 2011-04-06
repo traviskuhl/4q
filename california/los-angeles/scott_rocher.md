@@ -18,7 +18,7 @@ FamilyFinds (originally called DailyD) was founded by Matt Coffin and Jake Wineb
 
 
 ## 3. What are you most proud of? 
-I'm proud that I never stop thinking of new and innovative ways that people can use the internet to change their lives. I've always got something new up my sleeve.
+I'm proud that I never stop thinking of new and innovative ways that people can use the internet to change their lives. I've always got something up my sleeve.
 
 ## 4. What advice do you have for new developers
 Make sure you do some kind of physical exercise / activity everyday. I'm an avid cyclist and I can tell on days that I don't ride, something just doesn't feel right. As a bonus, exercise can help you solve problems by providing you some quality time to think about things.
@@ -29,7 +29,7 @@ I've got two -- a 2010 Cannondale Six Carbon 6 (Red / Black) and a 1984 Centurio
 
 
 ## About You
- * Website: [link](http://scottrocher.com)
+ * Website: [scottrocher.com](http://scottrocher.com)
  * Twitter: [rochers](http://twitter.com/rochers)
  * Email: [scottrocher@gmail.com](mailto:scottrocher@gmail.com)
 
