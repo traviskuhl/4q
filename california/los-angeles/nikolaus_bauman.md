@@ -2,7 +2,7 @@
 Lead Developer and Founder at Foodzie.com - Los Angeles, CA
 
 
-## 1. What are you working on right now (your full time job... side projects... anything and everything)?
+## 1. What are you working on right now?
 Ecommerce: Every developer's favorite type of application! No really, it is one of my favorite types of businesses. Foodzie was started because we knew of lots of great food producers that couldn't get their products into the hands of customers that wanted them. As a company we've tried many different approaches to solving this problem. All were designed to be revenue generating on day one. Our most recent project, the [Tasting Box](http://foodzie.com/tastingbox) is a take on the "of the month club" business with a grandiose vision. I do manage to put some time into side projects, but none are ready to announce just yet.
 
 
@@ -43,7 +43,7 @@ C.) It often leads into a "can you scale your startup once you grow big"
 * Twitter: [nbauman](http://twitter.com/nbauman)
 * Email: [nikbauman@gmail.com](mailto:nikbauman@gmail.com)
 
-# Tags
+## Tags
 * startups
 * ecommerce
 * Los Angeles

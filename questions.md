@@ -2,7 +2,7 @@
 $Job - $City, $State
 
 
-## 1. What are you working on right now (your full time job... side projects... anything and everything)?
+## 1. What are you working on right now?
 
 
 
@@ -26,6 +26,6 @@ $Job - $City, $State
 * Twitter: [](http://twitter.com)
 * Email: [](mailto:)
 
-# Tags
+## Tags
 * $tag1
 * $tag2
