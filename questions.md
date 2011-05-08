@@ -14,11 +14,11 @@ $Job - $City, $State
 
 
 
-## 4. What advice do you have for newcomers to your profession?
+## 4. What advice do you have for new developers?
 
 
 
-## Bounus: Answer your own question:
+## Bonus: Answer your own question:
 
 
 ## About You
